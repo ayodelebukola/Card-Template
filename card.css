@@ -1,0 +1,12 @@
+.whole{
+    border: 1px solid black;
+    border-radius: 15px;
+    width: 250px;
+    padding-left: 10px;
+    
+}
+.inde{
+    border-bottom: 1px dashed;
+}
+.ex{
+    border-bottom: 1px dashed;
